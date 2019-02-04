@@ -22,5 +22,5 @@ birthday.add("Barack", "4 August 1961")
 
 The following commands must be run in the root directory of the project
 
-Testing: ```rspec```
-Linter: ```rubocop```
+1. Testing: ```rspec```
+2. Linter: ```rubocop```
