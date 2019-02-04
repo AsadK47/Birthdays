@@ -1,6 +1,6 @@
 # Birthdays
 
-Simple app to add birthdays and list them
+A simple test driven app to add birthdays and list them
 
 ## How to run
 
